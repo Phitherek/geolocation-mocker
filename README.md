@@ -40,4 +40,11 @@ Returns JSON response:
 ````
 It can also return a Parse Error described in Google' s API documentation.
 
+Production
+----------
+
+The application's official production is located under the following URL:
+
+http://geolocation-mocker.phitherek.me
+
 Enjoy!
